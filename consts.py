@@ -1,0 +1,5 @@
+PURINES = ['A', 'G']
+PYRIMIDINES = ['C', 'U']
+PURINE_ATOMS = ['N9', 'C2', 'C6']
+PYRIMIDINE_ATOMS = ['N1', 'C2', 'C4']
+BACKBONE_ATOMS = ['P', "C4'"]
